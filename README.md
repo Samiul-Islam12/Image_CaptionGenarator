@@ -18,7 +18,7 @@ The model is deployed live on [Hugging Face Spaces (https://huggingface.co/space
 
 ## Screenshot
 
-![Web App Screenshot](https://github.com/Samiul-Islam12/X-Ray-Classification/blob/main/Screenshot/Screenshot%201.png)
+![Web App Screenshot](https://github.com/Samiul-Islam12/Image_CaptionGenarator/blob/main/Screenshot%202025-01-06%20142448.jpg)
 
 ## To run click here:
 To run this project locally, follow these steps:
